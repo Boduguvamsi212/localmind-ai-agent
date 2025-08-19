@@ -1,6 +1,3 @@
 fastapi
-streamlit
 uvicorn
-vllm
-sqlite3
-ollama
+streamlit
