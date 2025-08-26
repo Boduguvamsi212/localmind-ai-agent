@@ -1,5 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 streamlit
 requests
 pydantic
+PyPDF2
+langdetect
+python-multipart
+python-dotenv
